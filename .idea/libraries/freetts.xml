@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="freetts">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../FreeTTS/freetts.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../FreeTTS/mbrola.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../FreeTTS/freetts-jsapi10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../FreeTTS/cmu_time_awb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../FreeTTS/en_us.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../FreeTTS/cmu_us_kal.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

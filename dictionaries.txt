@@ -1,0 +1,1356 @@
+ability	Khả năng
+able	Có thể
+accept	Chấp nhận
+acceptable	Chấp nhận được
+accident	Tai nạn
+according	theo
+account	tính toán
+accurate	chính xác
+achieve	đạt được
+act	hành động
+action	hành động
+active	hoạt động
+activity	Hoạt động
+actor	Diễn viên
+actual	thực tế
+ad	Quảng cáo
+add	thêm vào
+addition	Thêm vào
+additional	thêm
+administration	Quyền quản trị
+administrative	hành chính
+admit	thừa nhận
+adult	người lớn
+advertising	Quảng cáo
+advice	Lời khuyên
+affair	Việc
+affect	có ảnh hưởng đến
+afford	đủ khả năng
+afraid	sợ
+after	sau
+afternoon	buổi chiều
+agency	Đại lý
+agent	đại lý
+aggressive	tích cực
+ago	trước
+agree	đồng ý
+agreement	Sự đồng ý
+aim	nhằm
+airline	hãng hàng không
+airport	Sân bay
+alcohol	Rượu
+alive	sống
+all	tất cả
+allow	cho phép
+alone	một mình
+alternative	thay thế
+amazing	tuyệt vời
+ambition	Tham vọng
+analysis	Nghiên cứu
+analyst	Phân tích
+angry	tức giận
+animal	động vật
+annual	hàng năm
+another	khác
+answer	câu trả lời
+anxiety	Lo ngại
+anxious	lo lắng
+any	bất kỳ
+apart	ngoài
+apartment	Căn hộ
+appear	xuất hiện
+appearance	Xuất hiện
+apple	Táo
+application	Ứng dụng
+apply	áp dụng
+appointment	Cuộc hẹn
+appropriate	thích hợp
+area	Khu vực
+argue	tranh luận
+argument	Đối số
+army	Quân đội
+arrange	sắp xếp
+arrival	Đến
+arrive	đến
+art	Nghệ thuật
+article	Điều khoản
+ask	hỏi
+asleep	ngủ
+aspect	Diện mạo
+assignment	Phân công
+assistance	Hỗ trợ
+assistant	Phụ tá
+association	Sự kết hợp
+assumption	Giả định
+atmosphere	Không khí
+attack	tấn công
+attention	Chú ý
+attitude	Thái độ
+audience	Khán giả
+automatic	tự động
+available	có sẵn
+avoid	tránh
+aware	nhận thức
+awareness	Nhận thức
+away	đi
+background	nền
+base	căn cứ
+baseball	Bóng chày
+basic	cơ bản
+basis	Căn cứ
+basket	Cái giỏ
+bathroom	Phòng tắm
+be	được
+beat	đánh đập
+beautiful	đẹp
+become	trở thành
+bedroom	Phòng ngủ
+beer	Bia
+begin	bắt đầu
+beginning	bắt đầu
+believe	tin tưởng
+belong	thuộc về
+best	tốt nhất
+better	tốt hơn
+big	lớn
+bird	Chim
+birthday	Ngày sinh nhật
+bitter	cay đắng
+blood	Máu
+bonus	Tiền thưởng
+boring	Chán nản
+born	Ngày Sinh:
+both	cả hai
+boyfriend	Bạn trai
+brave	dũng cảm
+bread	Bánh mì
+break	nghỉ
+breath	Hơi thở
+brief	ngắn gọn
+bright	sáng
+brilliant	rực rỡ
+broad	rộng
+brown	nâu
+budget	ngân sách
+build	xây dựng
+burn	đốt cháy
+business	Kinh doanh
+business	kinh doanh
+busy	bận rộn
+buy	mua
+buyer	Người mua
+cabinet	Buồng
+call	gọi
+calm	bình tĩnh
+camera	Máy chụp hình
+can	có thể
+cancer	Ung thư
+capable	có khả năng
+capital	vốn
+car	xe
+care	chăm sóc
+careful	cẩn thận
+carry	mang
+catch	catch
+category	Thể loại
+cause	gây ra
+celebration	Lễ kỷ niệm
+cell	Tế bào
+certain	nhất định
+championship	Chức vô địch
+chance	cơ hội
+change	thay đổi
+chapter	Chương
+character	nhân vật
+charge	tính phí
+charity	Bố thí
+cheap	giá rẻ
+check	kiểm tra
+cheek	Gò má
+chemical	hóa học
+chemistry	Hóa học
+chest	Ngực
+chicken	gà
+child	Trẻ em
+childhood	Thời thơ ấu
+chocolate	Sôcôla
+choice	lựa chọn
+choose	chọn
+church	Nhà thờ
+cigarette	Thuốc lá
+city	Thành phố
+civil	dân sự
+claim	yêu cầu
+classic	cổ điển
+classroom	Lớp học
+clean	sạch
+clean	làm sạch
+clear	rõ ràng
+clear	trong sáng
+client	Khách hàng
+climate	Khí hậu
+climb	leo
+close	gần
+close	gần
+clothes	Quần áo
+coffee	Cà phê
+cold	lạnh
+collect	sưu tầm
+collection	Bộ sưu tập
+college	Trường đại học
+combination	Phối hợp
+come	đến
+comfortable	thoải mái
+commercial	thương mại
+commit	phạm
+committee	Ủy ban
+common	phổ biến
+communication	Liên lạc
+community	Cộng đồng
+compare	so sánh
+comparison	Sự so sánh
+competition	Cuộc thi
+competitive	cạnh tranh
+complain	phàn nàn
+complaint	Lời phàn nàn
+complete	hoàn thành
+complete	hoàn toàn
+complex	phức tạp
+comprehensive	toàn diện
+computer	Máy tính
+concept	Khái niệm
+concern	lo lắng
+conclusion	Phần kết luận
+confident	tự tin
+confirm	xác nhận
+confusion	Nhầm lẫn
+connect	kết nối
+connect	liên kết
+connection	Liên quan
+conscious	có ý thức
+consequence	Kết quả
+consider	xem xét
+consist	gồm có
+consistent	phù hợp
+constant	liên tục
+construction	Xây dựng
+contact	tiếp xúc
+contain	chứa
+content	nội dung
+context	Bối cảnh
+continue	tiếp tục
+contract	Hợp đồng
+contribute	góp phần
+contribution	Sự đóng góp
+control	Kiểm soát
+control	kiểm soát
+conversation	Đàm thoại
+cook	nấu ăn
+cookie	Cookie
+cool	mát mẻ
+copy	sao chép
+corner	góc
+correct	chính xác
+correct	đúng
+cost	giá cả
+could	thể
+count	đếm
+country	Nước
+county	Quận
+courage	Lòng can đảm
+cousin	Anh em họ
+cover	che
+crazy	điên
+create	tạo ra
+creative	sáng tạo
+critical	quan trọng
+criticism	Sự chỉ trích
+cross	vượt qua
+cry	khóc
+cultural	văn hóa
+curious	tò mò
+currency	Tiền tệ
+current	hiện tại
+customer	Khách hàng
+cut	cắt
+cute	dễ thương
+dad	Cha
+damage	tổn thất
+dance	nhảy
+dangerous	nguy hiểm
+dark	tối
+data	Dữ liệu
+database	Cơ sở dữ liệu
+daughter	con gái
+day	ngày
+dead	chết
+deal	nhiều
+dealer	Người chia bài
+dear	thân yêu
+death	Sự chết
+debate	Tranh luận
+debt	Nợ nần
+decent	phong nha
+decide	quyết định
+decision	Phán quyết
+deep	sâu
+definition	Định nghĩa
+deliver	giao hàng
+delivery	Giao hàng
+demand	yêu cầu
+deny	từ chối
+department	Bộ
+departure	Khởi hành
+depend	tùy theo
+dependent	phụ thuộc
+depression	Phiền muộn
+depth	Chiều sâu
+describe	miêu tả
+description	Miêu tả
+design	thiết kế
+designer	nhà thiết kế
+desk	Bàn giấy
+desperate	tuyệt vọng
+destroy	phá hủy
+develop	phát triển
+development	Phát triển
+device	Thiết bị
+diamond	Kim cương
+die	chết
+difference	Khác nhau
+different	khác nhau
+difficult	khó khăn
+difficulty	Khó khăn
+dinner	Bữa tối
+direct	trực tiếp
+direction	Phương hướng
+director	Giám đốc
+dirt	Bụi
+dirty	bẩn
+disappear	biến mất
+disaster	Thảm họa
+discover	khám phá
+discuss	bàn luận
+discussion	Thảo luận
+disease	Căn bệnh
+disk	Đĩa
+distinct	biệt
+distribution	Phân phát
+divide	chia
+do	làm
+double	đôi
+downtown	trung tâm thành phố
+drama	Kịch
+dramatic	ấn tượng
+draw	rút ra
+drawer	Ngăn kéo
+drawing	Bản vẽ
+dress	váy
+dress	ăn mặc
+drink	uống
+drive	lái xe
+driver	Người lái xe
+drop	bỏ
+drunk	say rượu
+dry	khô
+due	do
+each	mỗi
+ear	Tai
+east	đông
+eastern	đông
+easy	dễ dàng
+eat	ăn
+economics	Kinh tế học
+economy	nền kinh tế
+editor	Biên tập viên
+education	Sự giáo dục
+educational	giáo dục
+effective	hiệu quả
+efficiency	Hiệu quả
+efficient	hiệu quả
+effort	Cố gắng
+either	hoặc
+election	Sựu bầu cử
+electrical	điện
+electronic	điện tử
+elevator	Thang máy
+embarrassed	xấu hổ
+emergency	trường hợp khẩn cấp
+emotion	Xúc động
+emotional	cảm xúc
+emphasis	Sự nhấn mạnh
+employee	Công nhân
+employer	Sử dụng lao động
+employment	Việc làm
+empty	rỗng
+enable	cho phép
+encourage	khuyến khích
+energy	Năng lượng
+engine	Động cơ
+engineering	Kỹ thuật
+enjoy	thưởng thức
+enough	đủ
+entertainment	Giải trí
+enthusiasm	Hăng hái
+entire	toàn bộ
+entry	Lối vào
+environment	Môi trường
+environmental	môi trường
+equal	bằng
+equipment	Thiết bị
+equivalent	tương đương
+error	Lỗi
+establishment	Thành lập
+estate	Tài sản
+even	thậm chí
+evening	buổi tối
+event	Biến cố
+every	mỗi
+exact	chính xác
+exam	Thi
+examination	Kiểm tra
+examine	xem xét
+example	Thí dụ
+excellent	tuyệt vời
+excitement	Phấn khích
+exciting	thú vị
+exist	tồn tại
+existing	hiện
+expect	chờ đợi
+expensive	đắt
+experience	kinh nghiệm
+expert	chuyên gia
+explain	giải thích
+explanation	Giải thích
+express	thể hiện
+express	phát biểu
+expression	Biểu hiện
+extend	mở rộng
+extension	mở rộng
+extent	Mức độ
+external	bên ngoài
+extra	thêm
+extreme	cực
+face	mặt
+fact	Việc
+fail	thất bại
+failure	Thất bại
+fair	công bằng
+fall	rơi
+familiar	quen thuộc
+family	Gia đình
+famous	nổi tiếng
+far	đến nay
+farmer	Nông dân
+fast	nhanh chóng
+fasten	đóng lại
+fat	chất béo
+federal	liên bang
+feed	nuôi
+feedback	Thông tin phản hồi
+feel	cảm
+feeling	cảm giác
+female	nữ
+few	số
+fight	cuộc chiến đấu
+fill	lấp đầy
+film	Phim ảnh
+final	thức
+financial	tài chính
+find	tìm thấy
+finding	Phát hiện
+fine	tốt
+finish	hoàn thành
+firm	công ty
+first	đầu tiên
+fishing	Đánh cá
+fit	phù hợp với
+fit	phù hợp
+flat	phẳng
+flight	Chuyến bay
+fly	bay
+fold	gập lại
+follow	theo
+food	Thức ăn
+football	Bóng đá
+force	lực lượng
+foreign	nước ngoài
+forget	quên
+forgive	tha thứ
+form	Hình thức
+form	hình thức
+formal	chính thức
+former	cựu
+fortune	Vận may
+forward	về phía trước
+found	tìm thấy
+foundation	Nền tảng
+free	miễn phí
+freedom	Sự tự do
+frequent	thường xuyên
+fresh	tươi
+friendly	thân thiện
+friendship	Tình bạn
+front	trước
+full	đầy đủ
+fun	vui vẻ
+funeral	Đám ma
+funny	vui
+future	trong tương lai
+gain	lợi
+game	Trò chơi
+game	trò chơi
+garbage	Đống rác
+gate	Cửa
+gene	Gen
+general	chung
+get	được
+girl	Cô gái
+girlfriend	Bạn gái
+give	cho
+glad	vui
+glass	kính
+global	toàn cầu
+go	đi
+goal	Mục tiêu
+gold	vàng
+good	tốt
+government	Chính phủ
+grand	lớn
+grandmother	Bà ngoại
+great	tuyệt vời
+green	màu xanh lá cây
+grocery	Tạp hóa
+gross	tổng
+grow	lớn lên
+growth	Tăng trưởng
+guest	Khách
+guidance	Hướng dẫn
+guilty	tội
+guitar	Đàn guitar
+hair	Tóc
+hall	Đại sảnh
+handle	xử lý
+happen	xảy ra
+happy	hạnh phúc
+hard	cứng
+hat	Mũ
+hate	ghét
+have	có
+head	đầu
+head	đầu
+health	Sức khỏe
+healthy	khỏe mạnh
+hear	nghe
+hearing	Thính giác
+heart	Tim
+heavy	nặng
+height	Chiều cao
+help	giúp
+helpful	hữu ích
+hide	giấu
+high	cao
+highway	Xa lộ
+his	mình
+historian	Sử gia
+historical	lịch sử
+history	Lịch sử
+hit	đánh
+hold	giữ
+holiday	kỳ nghỉ
+home	nhà
+homework	Bài tập về nhà
+honest	trung thực
+honey	Mật ong
+hope	hy vọng
+horror	kinh dị
+hospital	Bệnh viện
+hot	nóng
+hotel	Khách sạn
+hour	giờ
+house	nhà
+housing	Nhà ở
+huge	lớn
+human	con người
+hungry	đói
+hurt	đau
+idea	Ý kiến
+ideal	lý tưởng
+identify	xác định
+ill	bệnh
+illegal	bất hợp pháp
+imagination	Sự tưởng tượng
+imagine	tưởng tượng
+immediate	ngay lập tức
+importance	Tầm quan trọng
+important	quan trọng
+impossible	không thể
+impression	Ấn tượng
+impressive	ấn tượng
+improve	nâng cao
+improvement	Sự cải thiện
+incident	sự cố
+include	bao gồm
+income	Lợi tức
+increase	tăng lên
+independence	Độc lập
+independent	độc lập
+indicate	chỉ
+indication	Dấu hiệu
+individual	cá nhân
+industry	Ngành công nghiệp
+inevitable	không thể tránh khỏi
+inflation	Sự lạm phát
+influence	ảnh hưởng
+inform	báo
+informal	chính thức
+information	Thông tin
+initial	ban đầu
+initiative	Sáng kiến
+injury	Vết thương
+inner	bên trong
+insect	Côn trùng
+inside	bên trong
+inspection	Sự kiểm tra
+inspector	Viên thanh tra
+instance	Trường hợp
+instruction	Hướng dẫn
+insurance	Bảo hiểm
+intelligent	thông minh
+intend	có ý định
+intention	Mục đích
+interaction	Tương tác
+interesting	thú vị
+internal	nội bộ
+international	quốc tế
+internet	Internet
+introduce	giới thiệu
+introduction	Sự giới thiệu
+investment	Đầu tư
+invite	mời
+involve	liên quan đến
+join	ghép
+joint	doanh
+judgment	Án
+jump	nhảy
+junior	cơ sở
+just	chỉ
+keep	giữ
+key	chính
+kick	đá
+kill	giết
+kind	loại
+king	Vua
+kitchen	nhà bếp
+knock	đập
+know	biết
+knowledge	Kiến thức
+known	được biết đến
+lab	Phòng thí nghiệm
+ladder	Thang
+lady	Phụ nữ
+lake	Hồ
+language	Ngôn ngữ
+large	lớn
+last	cuối cùng
+last	cuối cùng
+late	cuối
+latter	thứ hai
+laugh	cười
+law	Pháp luật
+lay	nằm xuống
+lead	chì
+leader	Lãnh đạo
+leadership	Lãnh đạo
+leading	hàng đầu
+learn	học hỏi
+least	ít nhất
+leather	da
+leave	rời khỏi
+left	còn lại
+legal	pháp lý
+lend	cho vay
+length	Chiều dài
+less	ít
+let	để cho
+level	mức
+library	Thư viện
+lie	nói dối
+life	Đời sống
+life	cuộc sống
+like	như
+limit	Giới hạn
+limit	giới hạn
+link	liên kết
+listen	nghe
+literature	Văn chương
+little	ít
+live	sống
+live	sống
+living	sống
+local	địa phương
+location	Vị trí
+logical	hợp lý
+lonely	cô đơn
+long	dài
+look	nhìn
+loose	lỏng lẻo
+lose	mất
+loss	Sự mất
+lost	bị mất
+loud	lớn
+love	Tình Yêu
+love	yêu
+low	thấp
+lower	thấp hơn
+lucky	may mắn
+mad	điên
+magazine	Tạp chí
+main	chính
+maintenance	Bảo trì
+major	chính
+make	làm
+male	nam
+mall	Trung tâm muasắm
+manage	quản lý
+management	Quản lý
+manager	Người quản lý
+manufacturer	Nhà chế tạo
+many	nhiều
+map	Bản đồ
+mark	dấu
+marketing	Thị trường
+marriage	Hôn nhân
+massive	lớn
+master	chủ
+match	Trận đấu
+material	tài liệu
+math	Toán học
+matter	chất
+maximum	tối đa
+may	có thể
+meal	Bữa ăn
+mean	có nghĩa là
+mean	nghĩa là
+meaning	Nghĩa
+measure	đo
+measurement	Sự đo lường
+meat	Thịt
+media	Phương tiện truyền thông
+medical	y tế
+medicine	Y học
+medium	trung
+meet	gặp
+member	Thành viên
+membership	Thành viên
+memory	Trí nhớ
+mental	tinh thần
+mention	đề cập đến
+menu	Thực đơn
+message	Thông điệp
+method	Phương pháp
+middle	trung
+midnight	Nữa đêm
+might	might
+mind	nhớ
+minimum	tối thiểu
+minor	trẻ vị thành niên
+minute	phút
+miss	hỏng
+mission	Nhiệm vụ
+mixture	Hỗn hợp
+mobile	điện thoại di động
+mode	Chế độ
+mom	Mẹ
+moment	Chốc lát
+money	Tiền
+month	Tháng
+mood	Khí sắc
+mood	tâm trạng
+more	hơn
+most	nhất
+mother	mẹ
+motor	động cơ
+mountain	núi
+move	hành động
+movie	Phim
+much	nhiều
+mud	Bùn
+music	Âm nhạc
+must	cần
+narrow	hẹp
+nasty	khó chịu
+nation	Quốc gia
+national	quốc gia
+native	bản địa
+natural	tự nhiên
+nature	Bản chất
+nearby	lân cận
+neat	gọn gàng
+necessary	cần thiết
+need	nhu cầu
+negative	tiêu cực
+negotiation	Đàm phán
+neither	không
+nervous	thần kinh
+new	mới
+news	Tin tức
+newspaper	Báo
+next	tiếp theo
+nice	đẹp
+night	Đêm
+no	không có
+normal	bình thường
+north	phía bắc
+notice	nhận thấy
+novel	tiểu thuyết
+numerous	nhiều
+objective	mục tiêu
+obligation	Nghĩa vụ
+obtain	được
+obvious	rõ ràng
+obviously	rõ ràng
+occur	xảy ra
+odd	lẻ
+offer	phục vụ
+office	Văn phòng
+official	chính thức
+ok	ok
+old	cũ
+one	một
+only	chỉ
+open	mở
+open	mở
+opening	mở
+operation	Hoạt động
+opinion	Ý kiến
+opportunity	Cơ hội
+opposite	ngược lại
+orange	Trái cam
+order	trật tự
+ordinary	bình thường
+organization	Cơ quan
+original	ban đầu
+other	khác
+otherwise	khác
+ought	phải
+outcome	Kết quả
+outside	bên ngoài
+oven	Lò nướng
+over	hơn
+overall	tổng thể
+own	riêng
+own	riêng
+owner	Chủ nhân
+painting	Bức tranh
+paper	Giấy
+parking	bãi đậu xe
+particular	đặc biệt
+party	bên
+pass	vượt qua
+passenger	Hành khách
+passion	Tình yêu
+past	qua
+patience	Kiên nhẫn
+patient	bệnh nhân
+pay	trả
+payment	Thanh toán
+penalty	Hình phạt
+people	Người
+percentage	Tỷ lệ phần trăm
+perception	Sự nhận thức
+perfect	hoàn hảo
+perform	thực hiện
+performance	Hiệu suất
+period	thời gian
+permission	Sự cho phép
+person	Người
+personal	cá nhân
+personality	Nhân cách
+perspective	Quan điểm
+philosophy	Triết học
+phone	Điện thoại
+photo	Ảnh
+physical	vật lý
+physics	Vật lý
+piano	Dương cầm
+pick	nhặt
+pie	Bánh
+pizza	Bánh pizza
+place	nơi
+plan	kế hoạch
+plane	máy bay
+plastic	nhựa
+platform	Nền tảng
+play	chơi
+player	Người chơi
+pleasant	vừa ý
+plenty	nhiều
+plus	cộng với
+poem	Bài thơ
+poet	Thi sĩ
+poetry	Thơ phú
+point	điểm
+police	Cảnh sát
+policy	Chính sách
+political	chính trị
+politics	Chính trị
+pollution	Ô nhiễm
+poor	người nghèo
+popular	phổ biến
+population	Dân số
+positive	tích cực
+possession	Sở hữu
+possibility	Khả năng
+possible	có thể
+potato	Khoai tây
+potential	tiềm năng
+power	Quyền lực
+powerful	mạnh mẽ
+practical	thực tế
+prefer	thích
+preference	Sự ưa thích
+pregnant	mang thai
+preparation	Sự chuẩn bị
+prepare	chuẩn bị
+presence	Sự hiện diện
+present	hiện nay
+present	hiện tại
+presentation	Trình bày
+president	Chủ tịch
+press	nhấn
+pretend	giả vờ
+pretty	khá
+prevent	phòng ngừa
+previous	trước
+primary	chính
+prior	trước
+priority	Quyền ưu tiên
+private	tin
+prize	giải thưởng
+problem	Vấn đề
+procedure	Phương pháp
+produce	sản xuất
+product	Sản phẩm
+profession	Nghề nghiệp
+professional	chuyên nghiệp
+professor	Giáo sư
+promise	lời hứa
+promotion	Khuyến mãi
+proof	bằng chứng
+proper	thích hợp
+property	Bất động sản
+proposal	Đề nghị
+protect	bảo vệ
+protection	Sự bảo vệ
+proud	tự hào
+prove	chứng minh
+provide	cung cấp
+psychological	tâm lý
+psychology	Tâm lý học
+public	công cộng
+publish	xuất bản
+pull	kéo
+pure	tinh khiết
+purple	màu tím
+push	đẩy
+put	đặt
+quality	Chất lượng
+quantity	Số lượng
+queen	Nữ hoàng
+quick	nhanh chóng
+quiet	yên tĩnh
+raise	tăng
+rare	hiếm
+ratio	Tỉ lệ
+raw	liệu
+reach	đến
+reaction	Sự phản ứng
+read	đọc
+reading	Cách đọc
+ready	sẵn sàng
+real	thực
+realistic	thực tế
+reality	Thực tế
+realize	thực hiện
+reasonable	hợp lý
+receive	nhận
+recent	gần đây
+reception	Tiếp nhận
+recipe	Công thức
+recognition	Sự công nhận
+recognize	công nhận
+recommendation	Khuyến nghị
+record	ghi
+recording	Ghi âm
+red	màu đỏ
+reduce	giảm
+refer	tham khảo
+reflect	suy nghĩ
+reflection	Sự phản xạ
+refrigerator	Tủ lạnh
+refuse	từ chối
+regard	liên quan
+region	Vùng
+regular	thường xuyên
+relate	quan hệ
+relation	Quan hệ
+relationship	Mối quan hệ
+relative	tương đối
+release	phát hành
+relevant	có liên quan
+remain	còn lại
+remarkable	đáng chú ý
+remember	nhớ
+remote	từ xa
+remove	loại bỏ
+repeat	lặp lại
+replace	thay thế
+replacement	Sự thay thế
+reply	đáp lại
+report	báo cáo
+represent	đại diện
+representative	đại diện
+republic	Nước cộng hòa
+reputation	Danh tiếng
+require	yêu cầu
+requirement	Yêu cầu
+resident	cư dân
+resolution	Độ phân giải
+resource	Tài nguyên
+respect	Tôn trọng
+response	Câu trả lời
+responsibility	Trách nhiệm
+responsible	chịu trách nhiệm
+rest	nghỉ ngơi
+restaurant	Nhà hàng
+result	kết quả
+return	trở về
+reveal	tiết lộ
+revenue	Lợi tức
+revolution	Cuộc cách mạng
+rich	giàu
+right	đúng
+ring	chuông
+rise	tăng lên
+river	Sông
+road	Đường
+role	Vai trò
+roll	cuộn
+rough	thô
+round	vòng
+routine	thường xuyên
+royal	hoàng gia
+run	chạy
+sad	buồn
+safe	an toàn
+safety	Sự an toàn
+salad	Xà lách
+salt	muối
+same	cùng
+sample	Mẫu
+satisfaction	Sự hài lòng
+save	tiết kiệm
+savings	tiết kiệm
+say	nói
+scared	sợ hãi
+scene	Sân khấu
+science	Khoa học
+sea	biển
+seat	Ghế
+secret	bí mật
+secretary	Thư ký
+sector	Khu vực
+secure	đảm bảo
+security	An ninh
+see	thấy
+seem	hình như
+select	chọn
+selection	Sự lựa chọn
+sell	bán
+send	gởi
+senior	cao cấp
+sensitive	nhạy cảm
+separate	riêng
+separate	riêng biệt
+series	Loạt
+serious	nghiêm trọng
+serve	phục vụ
+session	Buổi họp
+set	bộ
+setting	Thiết lập
+settle	giải quyết
+several	nhiều
+severe	nghiêm trọng
+sexual	tình dục
+shake	rung chuyển
+shall	phải
+share	phần
+sharp	sắc nét
+shirt	Áo sơ mi
+shoot	bắn
+shopping	Muasắm
+short	ngắn
+shot	bắn
+should	nên
+shout	kêu la
+show	buổi diễn
+shut	đóng
+sick	bệnh
+signal	tín hiệu
+signature	Chữ ký
+significance	Ý nghĩa
+significant	đáng kể
+silly	ngớ ngẩn
+silver	bạc
+similar	tương tự
+simple	đơn giản
+sing	hát
+singer	Ca sĩ
+single	đơn
+sir	Ngài
+sister	Chị
+sit	ngồi
+situation	Tình hình
+skill	Kỹ năng
+sleep	ngủ
+slight	nhẹ
+slow	chậm
+small	nhỏ
+smart	thông minh
+smile	nụ cười
+smooth	mịn
+society	Xã hội
+soft	mềm
+software	Phần mềm
+solid	rắn
+solution	Dung dịch
+some	một số
+son	Con trai
+song	Bài hát
+sorry	xin lỗi
+sort	loại
+sound	nghe
+soup	Soup
+south	nam
+southern	Nam
+spare	phụ tùng
+speak	nói
+speaker	Loa
+special	đặc biệt
+specialist	chuyên gia
+specific	cụ thể
+speech	Lời nói
+spiritual	tinh thần
+square	vuông
+stand	đứng
+standard	tiêu chuẩn
+start	bắt đầu
+state	trạng thái
+statement	Tuyên bố
+status	tình trạng
+stay	ở lại
+steak	Miếng bò hầm
+stick	gậy
+still	vẫn
+stock	chứng khoán
+stop	dừng lại
+storage	Lưu trữ
+story	Câu chuyện
+straight	thẳng
+strange	lạ
+stranger	Người lạ
+strategy	Chiến lược
+street	đường phố
+strict	nghiêm ngặt
+strong	mạnh mẽ
+student	Sinh viên
+studio	Phòng thu
+study	Nghiên cứu
+study	nghiên cứu
+stupid	ngu ngốc
+subject	Tiêu đề
+substantial	đáng kể
+succeed	thành công
+success	Sự thành công
+successful	thành công
+successfully	thành công
+such	như vậy
+sudden	đột ngột
+suffer	bị
+sufficient	đủ
+suggest	đề nghị
+suggestion	Gợi ý
+suit	phù hợp với
+suitable	phù hợp
+super	siêu
+supermarket	Siêu thị
+supply	cung cấp
+support	ủng hộ
+suppose	giả sử
+sure	chắc chắn
+surgery	Phẫu thuật
+survive	sống sót
+suspicious	đáng ngờ
+sweet	ngọt ngào
+swimming	bơi
+sympathy	Thông cảm
+system	Hệ thống
+take	lấy
+tale	Truyện
+talk	nói chuyện
+tall	cao
+tea	Trà
+teach	dạy
+teacher	Giáo viên
+teaching	Giảng dạy
+technical	kỹ thuật
+technology	Công nghệ
+television	Tivi
+tell	nói
+temperature	Nhiệt độ
+temporary	tạm thời
+tend	có xu hướng
+tennis	Quần vợt
+tension	Sức ép
+terrible	khủng khiếp
+test	thử
+thank	cảm tạ
+thanks	Lời cảm ơn
+that	mà
+theory	Lý thuyết
+these	các
+thick	dày
+thin	mỏng
+thing	những vật
+think	nghĩ
+think	nghĩ
+this	này
+thought	Tư tưởng
+throat	Họng
+throw	ném
+tight	chặt chẽ
+time	Thời gian
+time	thời gian
+tiny	nhỏ
+tongue	Lưỡi
+tooth	Răng
+top	đầu
+topic	Chủ đề
+total	tổng số
+touch	chạm
+tough	khó khăn
+town	Thành phố
+tradition	Truyền thống
+traditional	truyền thống
+train	đào tạo
+trainer	Huấn luyện viên
+training	đào tạo
+transportation	Giao thông vận tải
+travel	đi du lịch
+treat	đãi
+trick	lừa
+truth	Sự thật
+try	thử
+turn	xoay
+two	Hai
+typical	điển hình
+ugly	xấu xí
+unable	không thể
+uncle	Chú
+understand	hiểu
+understanding	Hiểu biết
+unfair	không công bằng
+unhappy	không hài lòng
+union	Liên hiệp
+unique	độc đáo
+unit	Đơn vị
+united	thống nhất
+university	Trường đại học
+unlikely	không
+unusual	bất thường
+upper	trên
+upset	khó chịu
+upstairs	trên lầu
+use	dùng
+used	được sử dụng
+used to	sử dụng để
+useful	hữu ích
+user	Người sử dụng
+usual	thông thường
+valuable	có giá trị
+variation	Sự biến đổi
+variety	Nhiều
+various	khác nhau
+vast	lớn
+vegetable	rau
+vehicle	Xe cộ
+version	Phiên bản
+video	Video
+village	Làng
+virus	Virus
+visible	có thể nhìn thấy
+visit	lần
+visual	hình ảnh
+volume	Thể tích
+vote	bỏ phiếu
+wait	đợi
+walk	đi bộ
+want	muốn
+warm	ấm áp
+warn	cảnh báo
+warning	Cảnh báo
+wash	rửa
+waste	chất thải
+watch	xem
+water	Nước
+way	Đường
+weak	yếu
+weakness	Yếu đuối
+wealth	Sự giàu có
+wear	dùng
+wedding	Kết hôn
+week	Tuần
+weekly	hàng tuần
+weird	lạ
+west	tây
+western	tây
+what	những gì
+which	mà
+while	Trong khi
+white	trắng
+whole	toàn bộ
+whose	có
+wide	rộng
+wife	Vợ
+wild	hoang dã
+will	sẽ
+willing	sẵn sàng
+win	chiến thắng
+wine	rượu vang
+winner	Người chiến thắng
+winter	mùa đông
+wise	khôn ngoan
+wish	muốn
+woman	Đàn bà
+wonder	ngạc nhiên
+wonderful	tuyệt vời
+wood	Gỗ
+wooden	gỗ
+work	Công việc
+work	công việc
+work	công việc
+worker	Công nhân
+working	làm việc
+world	Thế giới
+worry	lo
+worth	giá trị
+would	sẽ
+write	viết
+writer	Nhà văn
+writing	Viết
+wrong	sai
+year	Năm
+yellow	vàng
+young	trẻ
+youth	Tuổi trẻ

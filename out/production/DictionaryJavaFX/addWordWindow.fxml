@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="380.0" prefWidth="798.0" style="-fx-background-color: #5AA6C8;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="addWordController">
+   <children>
+      <ImageView fitHeight="423.0" fitWidth="355.0" layoutX="150.0" layoutY="-50.0" pickOnBounds="true" preserveRatio="true" scaleX="1.5" scaleY="1.5">
+         <image>
+            <Image url="@Image/Header.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="423.0" fitWidth="355.0" layoutX="500.0" layoutY="-40.0" pickOnBounds="true" preserveRatio="true" rotate="-82.6" scaleX="2.0" scaleY="1.5">
+         <image>
+            <Image url="@Image/Header.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="423.0" fitWidth="355.0" layoutX="-26.0" layoutY="39.0" pickOnBounds="true" preserveRatio="true" rotate="-159.0" scaleX="2.0" scaleY="2.0">
+         <image>
+            <Image url="@Image/Header.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="166.0" layoutY="28.0" text="ENGLISH" textFill="WHITE">
+         <font>
+            <Font name="UTM CenturBold" size="18.0" />
+         </font>
+      </Label>
+      <Pane layoutX="50.0" layoutY="72.0" prefHeight="220.0" prefWidth="325.0" style="-fx-background-color: #E9F1F1; -fx-background-radius: 0.2cm;">
+         <children>
+            <TextArea fx:id="english" layoutX="20.0" layoutY="15.0" prefHeight="186.0" prefWidth="286.0" promptText="Nhập từ tiếng Anh mới." wrapText="true">
+               <font>
+                  <Font name="UTM Centur" size="15.0" />
+               </font></TextArea>
+         </children>
+      </Pane>
+      <Pane layoutX="425.0" layoutY="72.0" prefHeight="220.0" prefWidth="325.0" style="-fx-background-color: #E9F1F1; -fx-background-radius: 0.2cm;">
+         <children>
+            <TextArea fx:id="vietnamese" layoutX="20.0" layoutY="17.0" prefHeight="186.0" prefWidth="286.0" promptText="Nhập nghĩa tiếng Việt tương ứng." wrapText="true" />
+         </children>
+      </Pane>
+      <Label layoutX="521.0" layoutY="28.0" text="VIETNAMESE" textFill="WHITE">
+         <font>
+            <Font name="UTM CenturBold" size="18.0" />
+         </font>
+      </Label>
+      <Button fx:id="saveNewWordButton" layoutX="652.0" layoutY="319.0" mnemonicParsing="false" onAction="#saveWord" text="Lưu từ mới">
+         <font>
+            <Font name="UTM Centur" size="15.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>
